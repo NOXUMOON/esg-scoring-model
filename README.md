@@ -130,5 +130,5 @@ This project is part of an academic MSc thesis. Data sourced from publicly avail
 
 **Muhsin Rezai Shiraze**  
 📧 muhsin.shiraze@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/muhsin-rezai-shiraze)  
+💼 [LinkedIn](https://linkedin.com/in/muhsin-shiraze)  
 🐙 [GitHub](https://github.com/noxumoon)
